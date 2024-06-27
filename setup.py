@@ -31,7 +31,7 @@ install_requires = [
     'scikit-learn',
     'scipy',
     'six',
-    'sklearn'
+    'scikit-learn'
 ]
 
 if __name__ == '__main__':
